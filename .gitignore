@@ -1,0 +1,137 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.egg-info/
+.eggs/
+build/
+dist/
+*.sqlite3
+*.db
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+*.env
+*.ini
+*.cfg
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# -------------------------
+# MLflow
+# -------------------------
+mlruns/
+mlartifacts/
+mlflow.db
+
+# -------------------------
+# DVC
+# -------------------------
+.dvc/
+*.dvc
+.cache/
+.dvcignore
+
+# -------------------------
+# Airflow
+# -------------------------
+airflow/
+logs/
+dags/__pycache__/
+airflow.db
+airflow.cfg
+*.log
+
+# -------------------------
+# Docker
+# -------------------------
+docker-compose.override.yml
+.docker/
+docker-data/
+
+# -------------------------
+# Data Files
+# -------------------------
+data/
+datasets/
+raw_data/
+processed_data/
+*.csv
+*.tsv
+*.parquet
+*.xlsx
+*.json
+*.zip
+*.gz
+
+# -------------------------
+# Models
+# -------------------------
+models/
+*.h5
+*.pt
+*.pth
+*.onnx
+*.joblib
+*.sav
+
+# -------------------------
+# VSCode
+# -------------------------
+.vscode/
+.history/
+
+# -------------------------
+# Cache + Temp
+# -------------------------
+*.cache
+cache/
+temp/
+tmp/
+logs/
+*.log
+*.tmp
+
+# -------------------------
+# Node Modules (if any UI work)
+# -------------------------
+node_modules/
+
+# -------------------------
+# OS Files
+# -------------------------
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# -------------------------
+# GitHub Actions
+# -------------------------
+.github/workflows/*.yaml.autosave
+
+# -------------------------
+# Cloud Keys & Secrets
+# -------------------------
+*.pem
+*.key
+*.token
+*.aws
+aws_credentials/
+gcloud_credentials/
+azure_credentials/
+
+# -------------------------
+# Misc
+# -------------------------
+*.bak
+*.old
+*.orig
