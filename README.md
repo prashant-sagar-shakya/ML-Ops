@@ -11,9 +11,6 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/prashant-sagar-shakya/ML-Ops?style=for-the-badge&logo=github&color=blue)](https://github.com/prashant-sagar-shakya/ML-Ops/commits/main)
 [![GitHub stars](https://img.shields.io/github/stars/prashant-sagar-shakya/ML-Ops?style=for-the-badge&logo=github&color=yellow)](https://github.com/prashant-sagar-shakya/ML-Ops/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/prashant-sagar-shakya/ML-Ops?style=for-the-badge&logo=github&color=green)](https://github.com/prashant-sagar-shakya/ML-Ops/network/members)
-<a href="https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/?couponCode=CP251118BG1">
-  <img src="https://cdn.brandfetch.io/idTqV2BNgX/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1741065942432" alt="Udemy Course" width="105">
-</a>
 
 </div>
 
