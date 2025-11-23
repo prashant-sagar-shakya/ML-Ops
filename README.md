@@ -24,7 +24,7 @@ The bootcamp is a deep dive into the principles and practices required to automa
 
 My aim is to master the following areas by completing this course:
 
--   ** foundational MLOps Concepts:** Grasping the core principles and culture of MLOps.
+-   **foundational MLOps Concepts:** Grasping the core principles and culture of MLOps.
 -   **Automated CI/CD Pipelines:** Building robust CI/CD pipelines for ML projects using **GitHub Actions**.
 -   **Containerization & Orchestration:** Using **Docker** for creating consistent environments and **Apache Airflow** for orchestrating complex workflows.
 -   **Version Control:** Implementing code versioning with **Git**, data versioning with **DVC**, and experiment tracking with **Dagshub**.
